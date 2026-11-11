@@ -48,3 +48,6 @@
 # if a % 4 == 0:
 #     print("The number is multiple of 4")
 
+
+# hello program
+print("Hello")
